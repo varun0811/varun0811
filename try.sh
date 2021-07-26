@@ -1,2 +1,2 @@
 #/bin/bash
-echo "$varun"
+echo "$karan"
